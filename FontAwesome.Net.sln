@@ -5,7 +5,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FontAwesome.Net", "FontAwes
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{AF7B691C-4270-4B75-B22E-8BC9CB27FC51}"
 	ProjectSection(SolutionItems) = preProject
-		FontAwesome.nuspec = FontAwesome.nuspec
+		FontAwesome.Net.nuspec = FontAwesome.Net.nuspec
 	EndProjectSection
 EndProject
 Global
