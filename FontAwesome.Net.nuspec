@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata schemaVersion="2">
+    <id>FontAwesomeDotNet</id>
+    <version>1.0</version>
+    <title>Font Awesome dot net</title>
+    <owners>Chris Rodgers</owners>
+    <authors>Dave Gandy</authors>
+    <licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
+    <projectUrl>https://github.com/christophano/FontAwesomeDotNet</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A (very) simple, lightweight wrapper for the fantastic 'Font Awesome' font.</description>
+    <summary>A simple Font Awesome wrapper.</summary>
+    <tags>FontAwesome Font Awesome Wpf WinForms Icons</tags>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="System.Core"/>
+    </frameworkAssemblies>
+  </metadata>
+  <files>
+    <file src="FontAwesome.Net\bin\Release\FontAwesome.Net.dll" target="lib" />
+    <file src="FontAwesome.Net\bin\Release\FontAwesome.Net.pdb" target="lib" />
+  </files>
+</package>
