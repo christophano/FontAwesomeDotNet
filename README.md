@@ -3,6 +3,8 @@ FontAwesomeDotNet
 
 A (very) simple wrapper for Font Awesome, facilitating use in .net desktop projects
 
+[![Build status](https://ci.appveyor.com/api/projects/status/vw4qcnm6up3kwi5c?svg=true)](https://ci.appveyor.com/project/christophano/fontawesomedotnet)
+
 Example usage (in WPF)
 
 ```xml
