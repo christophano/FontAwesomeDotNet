@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata schemaVersion="2">
     <id>FontAwesomeDotNet</id>
-    <version>1.0</version>
+    <version>1.1</version>
     <title>Font Awesome dot net</title>
     <owners>Chris Rodgers</owners>
     <authors>Dave Gandy</authors>
