@@ -1,3 +1,5 @@
+Please note, this project is now archived.
+
 FontAwesomeDotNet
 =================
 
